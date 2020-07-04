@@ -1,3 +1,9 @@
+// Author: Samuel Henrique Ferreira Pereira
+// Objective: Study the Bubble Sort Parallel
+// University: Universidade Federal de São Carlos (UFSCar)
+// Date: 03/07/2020
+
+
 // Libraries
 #include <cmath>
 #include <cstdlib>
